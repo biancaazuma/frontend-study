@@ -1,0 +1,27 @@
+{
+  "name": "frontend-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biancaazuma/frontend-study.git"
+  },
+  "keywords": [
+    "frontend",
+    "study",
+    "html",
+    "css"
+  ],
+  "author": "Bianca Azuma",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  }
+}
