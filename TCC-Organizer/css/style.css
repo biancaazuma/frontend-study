@@ -1,0 +1,94 @@
+body{
+  font-family: 'Unica One', cursive;
+}
+p, h2{
+  font-family: 'Nova Flat', cursive;
+  font-size: 20px;
+}
+.space{
+margin: 300px 0px 0px 0px;
+}
+p{
+  color: rgba(0, 0, 0, 1);
+  text-align: justify;
+  text-justify: auto;
+}
+.linha{
+  width:960px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 5px 0;
+}
+.coluna{
+  padding: 0 10px;
+  float: left;
+}
+.teste{
+  background: greenyellow;
+}
+.col1{
+  width: 60px;
+}
+.col2{
+  width: 140px;
+}
+.col3{
+  width: 220px;
+}
+.col4{
+  width: 300px;
+}
+.col5{
+  width: 380px;
+}
+.col6{
+  width: 460px;
+}
+.col7{
+  width: 540px;
+}
+.col8{
+  width: 620px;
+}
+.col9{
+  width: 700px;
+}
+.col10{
+  width: 780px;
+}
+.col11{
+  width: 860px;
+}
+.col12{
+  width: 940px;
+}
+.header{
+  background:#fcefc5;
+  color: #99ccff;
+}
+.header ul , .sidebar ul {
+text-decoration: none;
+list-style: none;
+}
+.header ul a, .sidebar ul a{
+  list-style: none;
+  text-decoration: none;
+  color: #00578ad2;
+}
+.header ul a:hover, .sidebar ul a:hover{
+  list-style: none;
+  cursor: pointer;
+  text-decoration: none;
+  color: #628bb493;
+  background: #ffffff8f;
+}
+
+.sidebar{
+  display: block;
+  text-decoration: none;
+  background: #fccbbd;
+  width: 250px;
+  overflow: hidden;
+}
+
+
